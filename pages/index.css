@@ -133,10 +133,6 @@
   gap: 100px;
 }
 
-iframe {
-  border: none;
-}
-
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
